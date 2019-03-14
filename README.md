@@ -219,3 +219,6 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *	[Gensim Wikicorpus api](https://radimrehurek.com/gensim/corpora/wikicorpus.html)
 *	[Wikipedia Extractor](http://medialab.di.unipi.it/wiki/Wikipedia_Extractor)
 
+
+## Knowledge Wikis
+* [SemCor](https://www.gabormelli.com/RKB/SemCor_Corpus)
