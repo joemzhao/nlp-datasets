@@ -222,3 +222,6 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 ## Knowledge Wikis
 * [SemCor](https://www.gabormelli.com/RKB/SemCor_Corpus)
+
+## WSD
+* [NOAD+SemCor, Google](https://github.com/google-research-datasets/word_sense_disambigation_corpora)
